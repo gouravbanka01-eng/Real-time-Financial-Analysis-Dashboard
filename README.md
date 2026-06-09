@@ -107,7 +107,7 @@ Finance-Analytics-PowerBI-Dashboard
 
 ## 🛠 Tools & Technologies
 
-- Power BI
+- Power BI : https://github.com/gouravbanka01-eng/Real-time-Financial-Analysis-Dashboard/blob/main/Finalytics%20Dashboard.jpg
 - DAX
 - Power Query
 - Data Modeling
