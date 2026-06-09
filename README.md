@@ -132,7 +132,7 @@ Areas of Interest:
 
 ### Connect with Me
 
-LinkedIn: www.linkedin.com/in/gourav-banka-29a670286
+LinkedIn:https://www.linkedin.com/in/gourav-banka
 
 ---
 
