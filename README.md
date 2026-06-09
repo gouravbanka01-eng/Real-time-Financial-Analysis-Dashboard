@@ -68,7 +68,7 @@ A complete dashboard demonstration video is available in this repository showcas
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 ![Dashboard Preview].(https://github.com/gouravbanka01-eng/Real-time-Financial-Analysis-Dashboard/blob/main/Finalytics%20Dashboard.jpg)
 
 ### Overview Dashboard
 
