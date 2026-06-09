@@ -1,4 +1,11 @@
 # Real-time-Financial-Analysis-Power BI Dashboard
+For a Quick_Walkthrough Dashboard: https://drive.google.com/drive/folders/1M6agjU0Qp0cxftypP7e3lAqkcn2K9iOo
+
+Dashboard.pbix
+Dashboard Demo.mp4
+Overview Dashboard.png
+Transaction Dashboard.png
+
 # 📊 Finance Analytics & Transaction Intelligence Dashboard
 
 An interactive Power BI dashboard developed to transform raw financial transaction data into actionable business insights. This project simulates a real-world finance analytics use case where management requires visibility into transaction performance, customer behavior, regional trends, operational efficiency, and revenue generation.
