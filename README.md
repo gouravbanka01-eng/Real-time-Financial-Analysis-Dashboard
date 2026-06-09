@@ -65,17 +65,14 @@ A complete dashboard demonstration video is available in this repository showcas
 - Dynamic reporting capabilities
 
 📹 **Watch the Dashboard Demo:**  
-[Finance Dashboard Walkthrough Video]
 
 ---
 
 ## 📷 Dashboard Preview
 
 ### Overview Dashboard
-![Overview Dashboard](Screenshots/Overview.png)
 
 ### Transaction Analysis Dashboard
-![Transaction Analysis Dashboard](Screenshots/Transactions.png)
 
 ---
 
