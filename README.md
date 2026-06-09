@@ -24,7 +24,7 @@ This dashboard provides a centralized analytics solution enabling stakeholders t
 | Metric | Value |
 |----------|----------|
 | Total Transactions | 50,069 |
-| Transaction Value Analyzed | ₹45.6 Crore |
+| Transaction Value Analyzed | ₹456.29 Million|
 | Time Period | 2023 - 2026 |
 | Fee Revenue | ₹7.27 Lakh |
 | Tax Revenue | ₹1.31 Lakh |
