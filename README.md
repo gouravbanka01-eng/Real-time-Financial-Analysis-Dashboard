@@ -1,6 +1,11 @@
 # Real-time-Financial-Analysis-Power BI Dashboard
 For a Quick_Walkthrough Dashboard: https://drive.google.com/drive/folders/1M6agjU0Qp0cxftypP7e3lAqkcn2K9iOo
-<img width="1290" height="615" alt="image" src="https://github.com/user-attachments/assets/cddbf1cd-4f65-47c0-bff3-0c56cfb6ea58" />
+
+
+<img width="1063" height="646" alt="Transaction-1" src="https://github.com/user-attachments/assets/08e3f066-9f4b-4e62-a0b2-f91096cdc602" />
+
+<img width="1066" height="646" alt="Transaction-2" src="https://github.com/user-attachments/assets/2544e994-cfc5-42ed-a009-b1262b7b0df4" />
+
 
 Dashboard.pbix
 Dashboard Demo.mp4
